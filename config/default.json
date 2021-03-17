@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "bulat lesson",
+  "mongoUri": "mongodb+srv://roomaif:roomaif12345@cluster0.st1ch.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
